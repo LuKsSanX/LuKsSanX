@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋
 
 <!--
 **LuKsSanX/LuKsSanX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Atualmente trabalhando com projetos de Webscrapping em 🐍 Python, integrados à um CRM que utiliza o framework 🐘 Laravel (PHP).
